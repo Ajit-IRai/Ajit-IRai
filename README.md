@@ -37,17 +37,20 @@
 ---
 
 ### 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajit-irai&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajit-irai&show_icons=true&theme=github_dark" alt="Ajit Rai GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajit-irai&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajit-irai&theme=github_dark" alt="Ajit Rai GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajit-irai&show_icons=true&locale=en&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajit-irai&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
+
 
 ---
 
