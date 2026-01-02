@@ -34,22 +34,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 </p>
 
----
 
-### 📊 GitHub Stats
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajit-irai&show_icons=true&theme=github_dark" alt="Ajit Rai GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajit-irai&theme=github_dark" alt="Ajit Rai GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajit-irai&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
 
 
 ---
